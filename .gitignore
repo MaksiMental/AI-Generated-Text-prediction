@@ -1,0 +1,74 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.json
+*.log
+*.txt
+*.annot
+*.ann
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+*.pickle
+*.list
+*.npz
+*.npy
+*.h5
+*.mat
+
+# Model files
+*.pth
+*.pt
+*.pkl
+
+# Logs
+logs/
+
+# Directories used by tools like virtualenv
+bin/
+include/
+lib/
+lib64/
+share/
+man/
+
+# macOS
+.DS_Store
+
+/bert
+/data
+/old

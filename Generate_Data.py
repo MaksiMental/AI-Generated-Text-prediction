@@ -1,6 +1,7 @@
 import pandas as pd
 import openai
 import time
+#time was used to carry ot the time interval analysis
 
 # OpenAI API key
 openai.api_key = "insert api key"
